@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Pawts/Pawts.csproj" Id="0bd87058-c1cc-4e04-a82c-ff9712ce61da" />
+  <Project Path="tests/Pawts.Tests/Pawts.Tests.csproj" Id="63d189b0-c302-41a1-b09a-e2664077e077" />
+</Solution>
